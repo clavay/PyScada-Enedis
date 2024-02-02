@@ -1,0 +1,6 @@
+include AUTHORS
+include LICENSE
+include README.rst
+include CHANGELOG.txt
+recursive-include pyscada/enedis *
+recursive-exclude * *.pyc
